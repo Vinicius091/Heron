@@ -2,18 +2,18 @@
 double semiperímetro;
 double área;
 
-Console.WriteLine("---Calculo da área de um triângulo---");
+Console.WriteLine("---Calculo da área e semiperímetro de um triângulo---");
 Console.WriteLine();
 
-Console.WriteLine("lado1..: ");
+Console.Write("lado1..: ");
 lado1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine();
 
-Console.WriteLine("lado2..: ");
+Console.Write("lado2..: ");
 lado2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine();
 
-Console.WriteLine("lado3..: ");
+Console.Write("lado3..: ");
 lado3 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine();
 
